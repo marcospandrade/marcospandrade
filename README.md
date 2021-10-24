@@ -4,7 +4,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Marcos Andrade and I'm a software developer. I'm from Goiás/Brazil and currently working at Pitang Agile IT. You can find me on [![LinkedIn][3.2]][3].
+My name is Marcos Andrade and I'm a software developer. I'm from Goiás/Brazil and currently working at Pitang Agile IT as a Frontend Developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/editor-vscode-informational?style=flat&logo=vscode-idea&logoColor=white&color=2bbc8a)
@@ -15,6 +15,20 @@ My name is Marcos Andrade and I'm a software developer. I'm from Goiás/Brazil a
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 
+## Social
+
+You can find me on...
+
+<a href="https://github.com/marcospandrade/marcospandrade">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40' />
+</a>  
+<a href="https://dev.to/marcospandrade">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height='40' />
+</a>  
+<a href="https://www.linkedin.com/in/marcsandrade/">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40' />
+</a>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/marcospandrade/marcospandrade">
@@ -23,15 +37,6 @@ My name is Marcos Andrade and I'm a software developer. I'm from Goiás/Brazil a
 <a href="https://github.com/marcospandrade/marcospandrade">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcospandrade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marcos's GitHub Stats" />
 </a>
-
-<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcospandrade&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
-
-<!-- <a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     -->
 
 <!-- links to social media icons -->
 
