@@ -4,7 +4,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Marcos Andrade and I'm a software developer. I'm from Goiás/Brazil and currently working at Pitang Agile IT as a Frontend Developer.
+My name is Marcos Andrade and I'm a software developer. I'm from Goiás/Brazil and currently working at Americanas S.A as a Frontend Developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/editor-vscode-informational?style=flat&logo=vscode-idea&logoColor=white&color=2bbc8a)
